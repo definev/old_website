@@ -1,11 +1,11 @@
 {
-    "name": "differentColor",
-    "short_name": "differentColor",
+    "name": "Color Game",
+    "short_name": "Color Game",
     "start_url": ".",
-    "display": "minimal-ui",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "display": "standalone",
+    "background_color": "#29ABE2",
+    "theme_color": "#29ABE2",
+    "description": "An easy game ^^.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
