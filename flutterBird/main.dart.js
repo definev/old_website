@@ -23389,7 +23389,7 @@ t=t.cm$
 t.b=!0
 t.a.push(new V.MC(s))},
 JY:function(){var t=this,s=t.dy.a,r=-100*t.fx[t.f]
-if(s<=320+r||s>=420+r)return t.ch=!0
+if(s<=350+r||s>=360+r)return t.ch=!0
 else return!1},
 Hp:function(){if(!this.cx)return 250
 if(this.cy)return 0
