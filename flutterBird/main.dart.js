@@ -23502,7 +23502,7 @@ return P.a4($async$lN,s)},
 K:function(a){var t,s,r,q,p,o,n,m,l,k,j,i=this,h=null
 if(!i.dy){i.fy=Y.Uv(a,u.wm)
 $.eW().toString
-$.dB().ad("playAudio",["assets/audio/swoosh.wav"])
+$.dB().ad("playAudio",["https://raw.githubusercontent.com/definev/flutterBird/master/assets/audio/swoosh.ogg"])
 i.lN()
 i.dy=!0}if(!i.db&&!i.cy){i.r=i.f=0
 $.aO.z$.push(new V.MZ(i))}t=i.fr
@@ -23528,11 +23528,11 @@ $C:"$0",
 $R:0,
 $S:0}
 V.N8.prototype={
-$1:function(a){var t,s="playAudio",r="assets/audio/hit.ogg",q=this.a
+$1:function(a){var t,s="playAudio",r="https://raw.githubusercontent.com/definev/flutterBird/master/assets/audio/hit.ogg",q=this.a
 if(q.db){t=q.fx
 q.e.fg(t.b*q.r)
 if(t.b*q.r-q.qg()>=-42&&t.b*q.r-q.qg()<=42)if(!q.Ko())if(t.b*q.r-q.qg()===41){$.eW().toString
-$.dB().ad(s,["assets/audio/point.ogg"]);++q.f}if(!q.cy)++q.r
+$.dB().ad(s,["https://raw.githubusercontent.com/definev/flutterBird/master/assets/audio/point.ogg"]);++q.f}if(!q.cy)++q.r
 else{q.cy=q.db=!1
 $.eW().toString
 $.dB().ad(s,[r])
@@ -23543,22 +23543,22 @@ P.k9(P.bz(0,100),new V.N6(),u.P)}}q.aL(new V.N7())},
 $S:11}
 V.N5.prototype={
 $0:function(){$.eW().toString
-$.dB().ad("playAudio",["assets/audio/die.ogg"])
+$.dB().ad("playAudio",["https://raw.githubusercontent.com/definev/flutterBird/master/assets/audio/die.ogg"])
 P.k9(P.bz(0,250),new V.N4(),u.H)},
 $S:0}
 V.N4.prototype={
 $0:function(){$.eW().toString
-$.dB().ad("playAudio",["assets/audio/swoosh.wav"])
+$.dB().ad("playAudio",["https://raw.githubusercontent.com/definev/flutterBird/master/assets/audio/swoosh.ogg"])
 return null},
 $S:1}
 V.N6.prototype={
 $0:function(){$.eW().toString
-$.dB().ad("playAudio",["assets/audio/die.ogg"])
+$.dB().ad("playAudio",["https://raw.githubusercontent.com/definev/flutterBird/master/assets/audio/die.ogg"])
 P.k9(P.bz(0,250),new V.N3(),u.H)},
 $S:0}
 V.N3.prototype={
 $0:function(){$.eW().toString
-$.dB().ad("playAudio",["assets/audio/swoosh.wav"])
+$.dB().ad("playAudio",["https://raw.githubusercontent.com/definev/flutterBird/master/assets/audio/swoosh.ogg"])
 return null},
 $S:1}
 V.N7.prototype={
@@ -23580,11 +23580,11 @@ $S:0}
 V.MY.prototype={
 $0:function(){this.a.dx=!1
 $.eW().toString
-$.dB().ad("playAudio",["assets/audio/wing.ogg"])},
+$.dB().ad("playAudio",["https://raw.githubusercontent.com/definev/flutterBird/master/assets/audio/wing.ogg"])},
 $S:0}
 V.N2.prototype={
 $0:function(){$.eW().toString
-$.dB().ad("playAudio",["assets/audio/wing.ogg"])
+$.dB().ad("playAudio",["https://raw.githubusercontent.com/definev/flutterBird/master/assets/audio/wing.ogg"])
 var t=this.a
 if(!t.db)t.db=!0
 t.dx=!0
