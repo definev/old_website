@@ -46,12 +46,12 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "692b092d838c9dfa62c3a06cdd186187",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"favicon.png": "9c78b718a454caff1b07f41247ba5eaa",
+"icons/Icon-192.png": "aaff618699b9f05c21e7c769cb9fcb9e",
+"icons/Icon-512.png": "1ec34d093abc7741392d6e9ec91a30b6",
 "index.html": "6be580c2dc06ff7547f2031575e3f19c",
 "/": "6be580c2dc06ff7547f2031575e3f19c",
-"main.dart.js": "2368dc7c46a992375767a4385872011c",
+"main.dart.js": "2ea66ffb534e84415ec6fce08e416a39",
 "manifest.json": "3ac85980d20cad8cea2fcdb5ad033c48"
 };
 
