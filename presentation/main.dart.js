@@ -70727,7 +70727,7 @@ X.Gn.prototype={
 F(a,b){var s,r=null,q=K.ar(b).I.b,p=q==null?r:q.r3(C.j,1.5)
 q=L.ca("\u2022",r,r,r,p,r,r)
 s=t.p
-return new N.e3("Flutter cho Web",T.cz(H.a([C.yr,T.dU(H.a([q,C.fN,T.em(D.eo(r,L.ca("Video or Flutter Magic?",r,r,r,p==null?r:p.Cy(C.eb),r,r),C.Z,!1,r,r,r,r,r,r,r,r,r,r,r,new X.Z6(b),r,r,r,r,r,r),1)],s),C.aG,r,C.W,C.w)],s),C.C,r,C.W,C.w),U.bQ("images/flutter_web_architecture.png",r),2,3,r)}}
+return new N.e3("Flutter cho Web",T.cz(H.a([C.yr,T.dU(H.a([q,C.fN,T.em(D.eo(r,L.ca("Video or Flutter Magic?",r,r,r,p==null?r:p.Cy(C.eb),r,r),C.Z,!1,r,r,r,r,r,r,r,r,r,r,r,new X.Z6(b),r,r,r,r,r,r),1)],s),C.aG,r,C.W,C.w)],s),C.C,r,C.W,C.w),U.bQ("assets/images/flutter_web_architecture.png",r),2,3,r)}}
 X.Z6.prototype={
 $0(){E.aky(new X.Z5(),this.a,t.z)},
 $S:0}
@@ -70735,13 +70735,13 @@ X.Z5.prototype={
 $1(a){return C.Qo},
 $S:84}
 A.Gk.prototype={
-F(a,b){return new N.e3("Flutter cho Desktop",C.ys,U.bQ("images/ubuntu_flutter_installer.jpeg",null),2,3,null)}}
+F(a,b){return new N.e3("Flutter cho Desktop",C.ys,U.bQ("assets/images/ubuntu_flutter_installer.jpeg",null),2,3,null)}}
 S.Gm.prototype={
 F(a,b){var s=null
-return new F.kT("Flutter cho n\u1ec1n t\u1ea3ng kh\xe1c",C.yf,H.a([U.bQ("images/flutter_for_toaster/toyota.png",s),U.bQ("images/flutter_for_toaster/apple_tv.gif",s),U.bQ("images/flutter_for_toaster/raspberry_pi.jpeg",s)],t.p),!1,s)}}
+return new F.kT("Flutter cho n\u1ec1n t\u1ea3ng kh\xe1c",C.yf,H.a([U.bQ("assets/images/flutter_for_toaster/toyota.png",s),U.bQ("assets/images/flutter_for_toaster/apple_tv.gif",s),U.bQ("assets/images/flutter_for_toaster/raspberry_pi.jpeg",s)],t.p),!1,s)}}
 X.Gh.prototype={
 F(a,b){var s=null
-return new F.kT("Flutter vs React Native",C.yg,H.a([U.bQ("images/flutter_vs_rn/rn_architecture.png",s),U.bQ("images/flutter_vs_rn/google_trends.png",s),U.bQ("images/flutter_vs_rn/has_flutter_passed_rn.png",s)],t.p),!1,s)}}
+return new F.kT("Flutter vs React Native",C.yg,H.a([U.bQ("assets/images/flutter_vs_rn/rn_architecture.png",s),U.bQ("assets/images/flutter_vs_rn/google_trends.png",s),U.bQ("assets/images/flutter_vs_rn/has_flutter_passed_rn.png",s)],t.p),!1,s)}}
 F.vL.prototype={
 az(){return new F.NL(C.hF,C.m)}}
 F.NL.prototype={
@@ -70767,18 +70767,18 @@ $0(){return this.a.e=C.du},
 $S:0}
 B.LM.prototype={
 F(a,b){var s=null
-return new N.e3("Tooling",C.yo,T.cz(H.a([U.bQ("images/dart_dev_tools.gif",s),C.cd,L.ca("Dart DevTools",s,s,s,K.ar(b).I.d,s,s)],t.p),C.C,s,C.bo,C.w),2,3,s)}}
+return new N.e3("Tooling",C.yo,T.cz(H.a([U.bQ("assets/images/dart_dev_tools.gif",s),C.cd,L.ca("Dart DevTools",s,s,s,K.ar(b).I.d,s,s)],t.p),C.C,s,C.bo,C.w),2,3,s)}}
 N.H3.prototype={
 F(a,b){var s=null
-return new N.e3("Flutter Integrations",C.yh,T.cz(H.a([U.bQ("images/awesome_flutter.png",s),C.cd,L.ca("https://github.com/Solido/awesome-flutter",s,s,s,K.ar(b).I.d,s,s)],t.p),C.C,s,C.bo,C.w),2,3,s)}}
+return new N.e3("Flutter Integrations",C.yh,T.cz(H.a([U.bQ("assets/images/awesome_flutter.png",s),C.cd,L.ca("https://github.com/Solido/awesome-flutter",s,s,s,K.ar(b).I.d,s,s)],t.p),C.C,s,C.bo,C.w),2,3,s)}}
 U.F1.prototype={
 F(a,b){var s=null
-return new F.kT("C\u1ed9ng \u0111\u1ed3ng",C.yk,H.a([U.bQ("images/community/flutter_community.png",s),U.bQ("images/community/pub_dev.png",s),U.bQ("images/community/flutteristas.jpeg",s)],t.p),!1,s)}}
+return new F.kT("C\u1ed9ng \u0111\u1ed3ng",C.yk,H.a([U.bQ("assets/images/community/flutter_community.png",s),U.bQ("assets/images/community/pub_dev.png",s),U.bQ("assets/images/community/flutteristas.jpeg",s)],t.p),!1,s)}}
 G.vW.prototype={
 az(){return new G.Oe(C.m)}}
 G.Oe.prototype={
 F(a,b){var s=null
-return new N.e3("Nh\u01b0\u1ee3c \u0111i\u1ec3m c\u1ee7a Flutter",D.eo(s,G.amc(this.d?C.yq:C.yp,C.cr),C.Z,!1,s,s,s,s,s,s,s,s,s,s,s,new G.aaR(this),s,s,s,s,s,s),T.and(U.bQ("images/drawbacks_of_flutter.png",s),s,0.9),2,3,s)}}
+return new N.e3("Nh\u01b0\u1ee3c \u0111i\u1ec3m c\u1ee7a Flutter",D.eo(s,G.amc(this.d?C.yq:C.yp,C.cr),C.Z,!1,s,s,s,s,s,s,s,s,s,s,s,new G.aaR(this),s,s,s,s,s,s),T.and(U.bQ("assets/images/drawbacks_of_flutter.png",s),s,0.9),2,3,s)}}
 G.aaR.prototype={
 $0(){var s=this.a
 s.aI(new G.aaQ(s))},
@@ -70788,11 +70788,11 @@ $0(){var s=this.a
 s.d=!s.d},
 $S:0}
 A.LT.prototype={
-F(a,b){return new N.e3("Chuy\u1ec3n \u0111\u1ed5i sang Flutter",C.yt,U.bQ("images/transition_to_flutter.png",null),2,3,null)}}
+F(a,b){return new N.e3("Chuy\u1ec3n \u0111\u1ed5i sang Flutter",C.yt,U.bQ("assets/images/transition_to_flutter.png",null),2,3,null)}}
 E.LJ.prototype={
 F(a,b){return C.Oy}}
 S.GF.prototype={
-F(a,b){return new N.e3("T\u01b0\u01a1ng lai c\u1ee7a Flutter",C.yj,U.bQ("images/flutter_is_the_future.png",null),2,3,null)}}
+F(a,b){return new N.e3("T\u01b0\u01a1ng lai c\u1ee7a Flutter",C.yj,U.bQ("assets/images/flutter_is_the_future.png",null),2,3,null)}}
 D.LF.prototype={
 F(a,b){return C.Ox}}
 A.Du.prototype={
@@ -70815,7 +70815,7 @@ s=this.d
 return new N.e3("Flutter ho\u1ea1t \u0111\u1ed9ng\nnh\u01b0 th\u1ebf n\xe0o?",C.yi,T.cz(H.a([q,C.cd,R.ape(s==null?H.b(H.f("_controller")):s),C.cd,L.ca("Announcing Flutter 1.0 (Flutter Live, Keynote Part 1)",r,r,r,K.ar(b).I.d,r,r)],t.p),C.C,r,C.bo,C.w),2,3,r)}}
 T.Gg.prototype={
 F(a,b){var s=null
-return new F.kT("Flutter xung quanh ta",C.yn,H.a([U.bQ("images/apps/google_assistant.png",s),U.bQ("images/apps/google_ads.png",s),U.bQ("images/apps/stadia.png",s),U.bQ("images/apps/ebay.png",s),U.bQ("images/apps/alibaba.png",s),U.bQ("images/apps/the_new_york_times.png",s),U.bQ("images/apps/reflectly.png",s),U.bQ("images/apps/insight_timer.png",s),U.bQ("images/apps/nubank.png",s),U.bQ("images/apps/realtor.png",s),U.bQ("images/apps/philips.png",s),U.bQ("images/apps/hamilton.png",s)],t.p),!0,s)}}
+return new F.kT("Flutter xung quanh ta",C.yn,H.a([U.bQ("assets/images/apps/google_assistant.png",s),U.bQ("assets/images/apps/google_ads.png",s),U.bQ("assets/images/apps/stadia.png",s),U.bQ("assets/images/apps/ebay.png",s),U.bQ("assets/images/apps/alibaba.png",s),U.bQ("assets/images/apps/the_new_york_times.png",s),U.bQ("assets/images/apps/reflectly.png",s),U.bQ("assets/images/apps/insight_timer.png",s),U.bQ("assets/images/apps/nubank.png",s),U.bQ("assets/images/apps/realtor.png",s),U.bQ("assets/images/apps/philips.png",s),U.bQ("assets/images/apps/hamilton.png",s)],t.p),!0,s)}}
 L.vK.prototype={
 az(){return new L.Am(null,C.m)}}
 L.Am.prototype={
@@ -71327,7 +71327,7 @@ A.aeD.prototype={
 $1(a){},
 $S:395}
 L.Gl.prototype={
-F(a,b){return new F.kT("Flutter cho mobile",C.ym,H.a([U.bQ("images/flutter_for_mobile/flutter_architecture.png",0.75),U.bQ("images/flutter_for_mobile/platform_channels.png",0.75)],t.p),!1,null)}}
+F(a,b){return new F.kT("Flutter cho mobile",C.ym,H.a([U.bQ("assets/images/flutter_for_mobile/flutter_architecture.png",0.75),U.bQ("assets/images/flutter_for_mobile/platform_channels.png",0.75)],t.p),!1,null)}}
 R.z8.prototype={
 az(){return new R.BU(D.ao2(0,!0,1),O.wx(!0,null,!0,null,null,!1),C.m)}}
 R.BU.prototype={
