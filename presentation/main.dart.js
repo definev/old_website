@@ -71214,7 +71214,7 @@ dT(a){return this.d.$0()}}
 Z.xj.prototype={
 E(a,b){return T.LP(C.Y,-0.7853981633974483,L.a_v(C.DD,this.c,null,this.d),null)}}
 O.Gl.prototype={
-E(a,b){return new F.jq("Flutter cho developer",C.yg,H.a([U.bL("assets/images/hot_reload.gif",0.75)],t.p),!1,null)}}
+E(a,b){return new F.jq("Flutter cho developer",C.yg,H.a([U.bL("images/hot_reload.gif",0.75)],t.p),!1,null)}}
 Z.DB.prototype={
 E(a,b){var s,r=null,q=K.ar(b).I.b,p=q==null?r:q.r3(C.j,1.5)
 q=L.ca("\u2022",r,r,r,p,r,r)
@@ -71330,7 +71330,7 @@ A.aeE.prototype={
 $1(a){},
 $S:395}
 L.Gm.prototype={
-E(a,b){return new F.jq("Flutter cho mobile",C.yp,H.a([U.bL("assets/images/flutter_for_mobile/flutter_architecture.png",0.75),U.bL("assets/images/flutter_for_mobile/platform_channels.png",0.75)],t.p),!1,null)}}
+E(a,b){return new F.jq("Flutter cho mobile",C.yp,H.a([U.bL("images/flutter_for_mobile/flutter_architecture.png",0.75),U.bL("images/flutter_for_mobile/platform_channels.png",0.75)],t.p),!1,null)}}
 R.z8.prototype={
 az(){return new R.BU(D.ao3(0,!0,1),O.wx(!0,null,!0,null,null,!1),C.m)}}
 R.BU.prototype={
