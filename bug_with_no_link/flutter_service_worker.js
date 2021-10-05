@@ -14,7 +14,7 @@ const RESOURCES = {
 "assets/assets/locales/vi-VN.json": "99914b932bd37a50b983c5e7c90ae93b",
 "assets/FontManifest.json": "676bc5b447be14dc3f71e08046bbef15",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "342e1f6af47bab1464b910bc8242c4bf",
+"assets/NOTICES": "cd898397ccafc11c8fd0db7e11826c9a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -50,10 +50,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "afc84514066045b4bfc9f060b354a906",
 "icons/ms-icon-310x310.png": "e732fb0b4d9872ff7af8c27b4e836b58",
 "icons/ms-icon-70x70.png": "56796e5f9089e18e76db55d3f9778046",
-"index.html": "9e1b036080ab35af87b4a3e3aa052a5c",
-"/": "9e1b036080ab35af87b4a3e3aa052a5c",
+"index.html": "39220539b29ea6ccd56d67e5f8217162",
+"/": "39220539b29ea6ccd56d67e5f8217162",
 "indicator/cat.gif": "0e70881ce2374bd838a25c30f5dc637e",
-"main.dart.js": "03e18dd4c8cd1b2962dfdf5923d122c9",
+"main.dart.js": "4a58f0ca6c6bbc2b8c02725a3d064886",
 "manifest.json": "4afa9da0d0c7b521a973a3fc8b9b0452",
 "version.json": "5f56205368c7b6b69e5a8ddb99db5824"
 };
